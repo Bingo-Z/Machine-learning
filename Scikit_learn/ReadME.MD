@@ -105,6 +105,7 @@ grid_search = GridSearchCV(model, param_grid, cv=5)
 - [Andrew Ng《机器学习》](https://www.coursera.org/learn/machine-learning)（Coursera）  
 - [Fast.ai《Practical Deep Learning for Coders》](https://www.fast.ai/)  
 - [Kaggle Learn: Machine Learning Course](https://www.kaggle.com/learn/machine-learning)  
+- [菜鸟教程](https://www.runoob.com/sklearn/sklearn-tutorial.html)
 
 ### 4. 开源项目
 - [Scikit-learn Examples](https://scikit-learn.org/stable/auto_examples/index.html)  
